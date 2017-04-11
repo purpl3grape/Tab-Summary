@@ -1,0 +1,7 @@
+G:\Peter_Tan\_____WORK_____\C#_Projects\TabSummaryGenerator\TabSummaryGenerator\bin\Debug\TabSummaryGenerator.exe.config
+G:\Peter_Tan\_____WORK_____\C#_Projects\TabSummaryGenerator\TabSummaryGenerator\bin\Debug\TabSummaryGenerator.exe
+G:\Peter_Tan\_____WORK_____\C#_Projects\TabSummaryGenerator\TabSummaryGenerator\bin\Debug\TabSummaryGenerator.pdb
+G:\Peter_Tan\_____WORK_____\C#_Projects\TabSummaryGenerator\TabSummaryGenerator\obj\Debug\TabSummaryGenerator.csprojResolveAssemblyReference.cache
+G:\Peter_Tan\_____WORK_____\C#_Projects\TabSummaryGenerator\TabSummaryGenerator\obj\Debug\TabSummaryGenerator.csproj.ResolveComReference.cache
+G:\Peter_Tan\_____WORK_____\C#_Projects\TabSummaryGenerator\TabSummaryGenerator\obj\Debug\TabSummaryGenerator.exe
+G:\Peter_Tan\_____WORK_____\C#_Projects\TabSummaryGenerator\TabSummaryGenerator\obj\Debug\TabSummaryGenerator.pdb

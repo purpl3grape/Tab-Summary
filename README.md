@@ -9,3 +9,5 @@ Specifically common calculation discrepencies arise when imposing desired weight
 <br>
 <br>
 Furthermore this is just an example of how to implement Interop / Excel processes within a C# program to manipulate and automate Excel reporting and analysis.
+<br><br>
+No PII
